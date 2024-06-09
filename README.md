@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **University of Moratuwa**
+- 🌱 I’m currently learning at **University of Moratuwa**
 
 - 📫 How to reach me **eshanmaduranga0329@gmail.com**
 
