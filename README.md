@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eshan Maduranga</h1>
-<h3 align="center">full stack & mobile - app developer </h3>
+<h3 align="center">full stack Web & mobile - app developer </h3>
 <h3 align="center">passionate in Data Science and AI </h3>
 
 
