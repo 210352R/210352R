@@ -2,7 +2,6 @@
 <h3 align="center">full stack & mobile - app developer </h3>
 <h3 align="center">passionate in Data Science and AI </h3>
 
-![profile new](https://github.com/210352R/210352R/assets/127854691/244e29d8-093f-4ec1-9519-79cf51bc6037)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=210352r&label=Profile%20views&color=0e75b6&style=flat" alt="210352r" /> </p>
 
