@@ -14,7 +14,7 @@
 
 
 
-<h5 align="left">Connect with me:  (https://eshanmaduranga.me/) </h5>
+<h5 align="left">Connect with me:  (https://eshan-maduranga.netlify.app/) </h5>
 <p align="left">
   
 </p>
